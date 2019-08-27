@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div >
     <BurgerMenu></BurgerMenu>
         <nuxt />
   </div>
